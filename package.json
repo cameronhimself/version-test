@@ -1,0 +1,11 @@
+{
+  "name": "cam-version-test",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "version": "echo $npm_package_version"
+  },
+  "author": "",
+  "license": "ISC"
+}

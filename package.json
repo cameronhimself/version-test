@@ -7,5 +7,8 @@
     "version": "echo $npm_package_version"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "semantic-release": "^17.0.2"
+  }
 }

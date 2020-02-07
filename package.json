@@ -4,12 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "version": "echo $npm_package_version",
-    "release": "semantic-release"
+    "version": "echo $npm_package_version"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "semantic-release": "^17.0.2"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }

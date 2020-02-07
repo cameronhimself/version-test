@@ -1,1 +1,1 @@
-npm semantic-release
+npm version minor
